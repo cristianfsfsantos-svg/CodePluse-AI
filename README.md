@@ -1,1 +1,1 @@
-# CodePluse-AI
+# CodePulse-AI
